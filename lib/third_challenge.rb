@@ -36,7 +36,7 @@ epic_tragedy = {
           :age => "51"
         },
         :heroine => {
-          :name => "Julieta",
+          :name => "Juliet",
           :age => "15",
           :status => "alive"
         },
