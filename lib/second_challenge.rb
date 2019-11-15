@@ -1,4 +1,3 @@
-=begin
 
 def second_challenge
   
@@ -18,4 +17,3 @@ def second_challenge
   }
 end
 
-=end
